@@ -51,8 +51,4 @@ g.addedge ({"f","g"})
 print("tambah ke-2", g.getvertex())
 print("tambah ke-2", g.getedge())
 print("")
-print("________________________________________")
-print("BY : Name : Ikhwan Maulana Ivansyah")
-print("     NIM  : SI20230016")
-print("________________________________________")
 
